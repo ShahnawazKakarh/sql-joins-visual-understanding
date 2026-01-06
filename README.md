@@ -1,7 +1,8 @@
 # SQL Joins – Visual Understanding
 
 👉 **Live Demo**
-[https://ShahnawazKakarh.github.io/sql-joins-visual-understanding/index.html](https://ShahnawazKakarh.github.io/sql-joins-visual-understanding/index.html)
+[https://ShahnawazKakarh.github.io/sql-joins-visual-understanding/](https://ShahnawazKakarh.github.io/sql-joins-visual-understanding/)
+
 
 ---
 
